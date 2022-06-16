@@ -4,8 +4,8 @@
 
 We are looking to find the relationship between road accidents and time,age,gender,road condition,speed,cause of accident, location,DUI,
 
-We are analyisng victorian crash statistics. 
-Our project is to uncover patterns in criminal activity around Los Angeles. We'll examine relationships between types of crime and location; crime rates and times of day; trends in crime rates over the course of the year; and related questions, as the data admits.
+We are analysing victorian crash statistics. 
+
 
 ## Scope:
 Date: 2015-2020
