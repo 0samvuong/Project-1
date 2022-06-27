@@ -1,16 +1,8 @@
 # Project-1 
 
-## Project Proposal - 
 
-Merge test please ingore
+Slides: https://docs.google.com/presentation/d/1KVe3IcGQot4gYCSb9O-BeDrAubJsX9vDaqClo_vSnmw/edit#slide=id.p
 
-We are looking to find the relationship between road accidents and time,age,gender,road condition,speed,cause of accident, location,DUI,
-
-We are analysing victorian crash statistics. 
-
-
-## Scope:
-Date: 2015-2020
 
 
 ## Group Members:
